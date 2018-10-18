@@ -71,7 +71,10 @@ h1{
   
 }
   
-  
+  mark {
+    background-color: #eae0c8;
+    color: black;
+}
   
   
   
