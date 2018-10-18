@@ -1,0 +1,80 @@
+* {
+				font-family: 'GFSJacksonRegular'; 
+                 color: #000000;
+				text-align: center;
+                font-weight: normal; 
+                font-style: Bold;
+}
+			body {
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #eae0c8;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;}
+
+body, html {
+    width: 90%;
+	margin: 0 auto;
+background-image: url("http://downloadwallpaper.org/wp-content/uploads/2016/08/paradise-wallpaper-HD4.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.column1{
+  background-image: url("https://i.pinimg.com/564x/a8/81/e2/a881e257fb6ef9d7f43c9437e0c63ed6.jpg");
+  background-position: center;
+  font-family: 'GFSJacksonRegular'; 
+                 color: #000000;
+}
+
+.column2{
+  background-image: url("https://i.pinimg.com/564x/4c/f0/7e/4cf07e789fc5a2128f4e9491979b529c.jpg");
+background-position: center;
+}
+.column3{
+  background-image: url("https://i.pinimg.com/564x/72/a3/5b/72a35b4f33788403ca1288e58dcf0d56.jpg");
+  background-position: center;
+}
+  
+#feature{
+   background-image: url("https://emersonresort.com/wp-content/uploads/spa-specials-500x257.jpg");
+background-repeat: no-repeat;
+        background-position: center;
+    background-size: 65% 100%;
+}
+  
+h1{
+  font-family: 'GFSJacksonRegular'; 
+                 color: #000000;
+				text-align: center;
+                font-weight: normal; 
+                font-style: Bold;
+                font-size: 30pt;
+  
+}
+  
+  
+  
+  
+  
+  
+  
+  
